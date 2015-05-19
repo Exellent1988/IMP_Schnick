@@ -32,6 +32,5 @@ int main(int argc, const char * argv[]) {
     waitKey(0);
     return 0;
 }
-kkk
 
 //Test Test by Exel
